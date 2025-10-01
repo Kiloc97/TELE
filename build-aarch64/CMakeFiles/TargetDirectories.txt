@@ -1,0 +1,3 @@
+/mnt/c/Programming/Tele/build-aarch64/CMakeFiles/tele.dir
+/mnt/c/Programming/Tele/build-aarch64/CMakeFiles/edit_cache.dir
+/mnt/c/Programming/Tele/build-aarch64/CMakeFiles/rebuild_cache.dir

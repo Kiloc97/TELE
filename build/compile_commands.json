@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/Programming/Tele/build",
+  "command": "/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++   -g -std=gnu++17 -o CMakeFiles/tele.dir/main.cpp.o -c /mnt/c/Programming/Tele/main.cpp",
+  "file": "/mnt/c/Programming/Tele/main.cpp",
+  "output": "CMakeFiles/tele.dir/main.cpp.o"
+}
+]
