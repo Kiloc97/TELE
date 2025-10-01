@@ -33,7 +33,7 @@
 						"gcc_s"
 					]
 				},
-				"path" : "/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc",
+				"path" : "/usr/bin/gcc",
 				"version" : "13.3.0"
 			},
 			"language" : "C",
@@ -79,7 +79,7 @@
 						"gcc"
 					]
 				},
-				"path" : "/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++",
+				"path" : "/usr/bin/g++",
 				"version" : "13.3.0"
 			},
 			"language" : "CXX",

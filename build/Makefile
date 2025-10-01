@@ -153,6 +153,78 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+print_hwmon_info.o: print_hwmon_info.cpp.o
+.PHONY : print_hwmon_info.o
+
+# target to build an object file
+print_hwmon_info.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/print_hwmon_info.cpp.o
+.PHONY : print_hwmon_info.cpp.o
+
+print_hwmon_info.i: print_hwmon_info.cpp.i
+.PHONY : print_hwmon_info.i
+
+# target to preprocess a source file
+print_hwmon_info.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/print_hwmon_info.cpp.i
+.PHONY : print_hwmon_info.cpp.i
+
+print_hwmon_info.s: print_hwmon_info.cpp.s
+.PHONY : print_hwmon_info.s
+
+# target to generate assembly for a file
+print_hwmon_info.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/print_hwmon_info.cpp.s
+.PHONY : print_hwmon_info.cpp.s
+
+print_uptime.o: print_uptime.cpp.o
+.PHONY : print_uptime.o
+
+# target to build an object file
+print_uptime.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/print_uptime.cpp.o
+.PHONY : print_uptime.cpp.o
+
+print_uptime.i: print_uptime.cpp.i
+.PHONY : print_uptime.i
+
+# target to preprocess a source file
+print_uptime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/print_uptime.cpp.i
+.PHONY : print_uptime.cpp.i
+
+print_uptime.s: print_uptime.cpp.s
+.PHONY : print_uptime.s
+
+# target to generate assembly for a file
+print_uptime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/print_uptime.cpp.s
+.PHONY : print_uptime.cpp.s
+
+unameload.o: unameload.cpp.o
+.PHONY : unameload.o
+
+# target to build an object file
+unameload.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/unameload.cpp.o
+.PHONY : unameload.cpp.o
+
+unameload.i: unameload.cpp.i
+.PHONY : unameload.i
+
+# target to preprocess a source file
+unameload.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/unameload.cpp.i
+.PHONY : unameload.cpp.i
+
+unameload.s: unameload.cpp.s
+.PHONY : unameload.s
+
+# target to generate assembly for a file
+unameload.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tele.dir/build.make CMakeFiles/tele.dir/unameload.cpp.s
+.PHONY : unameload.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +237,15 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... print_hwmon_info.o"
+	@echo "... print_hwmon_info.i"
+	@echo "... print_hwmon_info.s"
+	@echo "... print_uptime.o"
+	@echo "... print_uptime.i"
+	@echo "... print_uptime.s"
+	@echo "... unameload.o"
+	@echo "... unameload.i"
+	@echo "... unameload.s"
 .PHONY : help
 
 

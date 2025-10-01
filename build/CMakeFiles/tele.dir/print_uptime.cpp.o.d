@@ -1,6 +1,6 @@
-CMakeFiles/tele.dir/main.cpp.o: /mnt/c/Programming/Tele/main.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
- /usr/include/c++/13/bits/requires_hosted.h \
+CMakeFiles/tele.dir/print_uptime.cpp.o: \
+ /mnt/c/Programming/Tele/print_uptime.cpp /usr/include/stdc-predef.h \
+ /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -148,4 +148,15 @@ CMakeFiles/tele.dir/main.cpp.o: /mnt/c/Programming/Tele/main.cpp \
  /usr/include/c++/13/bits/locale_facets.tcc \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
- /usr/include/c++/13/bits/istream.tcc /mnt/c/Programming/Tele/telepix.h
+ /usr/include/c++/13/bits/istream.tcc \
+ /usr/include/x86_64-linux-gnu/sys/sysinfo.h /usr/include/linux/kernel.h \
+ /usr/include/linux/sysinfo.h /usr/include/linux/types.h \
+ /usr/include/x86_64-linux-gnu/asm/types.h \
+ /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
+ /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
+ /usr/include/asm-generic/bitsperlong.h /usr/include/linux/posix_types.h \
+ /usr/include/linux/stddef.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
+ /usr/include/asm-generic/posix_types.h /usr/include/linux/const.h \
+ /mnt/c/Programming/Tele/telepix.h
