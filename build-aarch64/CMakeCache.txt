@@ -203,8 +203,8 @@ CMAKE_STRIP:FILEPATH=/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-
 //Path to a program.
 CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 
-//The CMake toolchain file
-CMAKE_TOOLCHAIN_FILE:FILEPATH=/mnt/c/Programming/Tele/aarch64-toolchain.cmake
+//No help, variable specified on the command line.
+CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=aarch64-toolchain.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console

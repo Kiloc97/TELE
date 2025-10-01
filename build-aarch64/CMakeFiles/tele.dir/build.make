@@ -83,17 +83,65 @@ CMakeFiles/tele.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tele.dir/main.cpp.s"
 	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Programming/Tele/main.cpp -o CMakeFiles/tele.dir/main.cpp.s
 
+CMakeFiles/tele.dir/unameload.cpp.o: CMakeFiles/tele.dir/flags.make
+CMakeFiles/tele.dir/unameload.cpp.o: /mnt/c/Programming/Tele/unameload.cpp
+CMakeFiles/tele.dir/unameload.cpp.o: CMakeFiles/tele.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Programming/Tele/build-aarch64/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tele.dir/unameload.cpp.o"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tele.dir/unameload.cpp.o -MF CMakeFiles/tele.dir/unameload.cpp.o.d -o CMakeFiles/tele.dir/unameload.cpp.o -c /mnt/c/Programming/Tele/unameload.cpp
+
+CMakeFiles/tele.dir/unameload.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/tele.dir/unameload.cpp.i"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Programming/Tele/unameload.cpp > CMakeFiles/tele.dir/unameload.cpp.i
+
+CMakeFiles/tele.dir/unameload.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tele.dir/unameload.cpp.s"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Programming/Tele/unameload.cpp -o CMakeFiles/tele.dir/unameload.cpp.s
+
+CMakeFiles/tele.dir/print_uptime.cpp.o: CMakeFiles/tele.dir/flags.make
+CMakeFiles/tele.dir/print_uptime.cpp.o: /mnt/c/Programming/Tele/print_uptime.cpp
+CMakeFiles/tele.dir/print_uptime.cpp.o: CMakeFiles/tele.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Programming/Tele/build-aarch64/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/tele.dir/print_uptime.cpp.o"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tele.dir/print_uptime.cpp.o -MF CMakeFiles/tele.dir/print_uptime.cpp.o.d -o CMakeFiles/tele.dir/print_uptime.cpp.o -c /mnt/c/Programming/Tele/print_uptime.cpp
+
+CMakeFiles/tele.dir/print_uptime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/tele.dir/print_uptime.cpp.i"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Programming/Tele/print_uptime.cpp > CMakeFiles/tele.dir/print_uptime.cpp.i
+
+CMakeFiles/tele.dir/print_uptime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tele.dir/print_uptime.cpp.s"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Programming/Tele/print_uptime.cpp -o CMakeFiles/tele.dir/print_uptime.cpp.s
+
+CMakeFiles/tele.dir/print_hwmon_info.cpp.o: CMakeFiles/tele.dir/flags.make
+CMakeFiles/tele.dir/print_hwmon_info.cpp.o: /mnt/c/Programming/Tele/print_hwmon_info.cpp
+CMakeFiles/tele.dir/print_hwmon_info.cpp.o: CMakeFiles/tele.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Programming/Tele/build-aarch64/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/tele.dir/print_hwmon_info.cpp.o"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tele.dir/print_hwmon_info.cpp.o -MF CMakeFiles/tele.dir/print_hwmon_info.cpp.o.d -o CMakeFiles/tele.dir/print_hwmon_info.cpp.o -c /mnt/c/Programming/Tele/print_hwmon_info.cpp
+
+CMakeFiles/tele.dir/print_hwmon_info.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/tele.dir/print_hwmon_info.cpp.i"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Programming/Tele/print_hwmon_info.cpp > CMakeFiles/tele.dir/print_hwmon_info.cpp.i
+
+CMakeFiles/tele.dir/print_hwmon_info.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/tele.dir/print_hwmon_info.cpp.s"
+	/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Programming/Tele/print_hwmon_info.cpp -o CMakeFiles/tele.dir/print_hwmon_info.cpp.s
+
 # Object files for target tele
 tele_OBJECTS = \
-"CMakeFiles/tele.dir/main.cpp.o"
+"CMakeFiles/tele.dir/main.cpp.o" \
+"CMakeFiles/tele.dir/unameload.cpp.o" \
+"CMakeFiles/tele.dir/print_uptime.cpp.o" \
+"CMakeFiles/tele.dir/print_hwmon_info.cpp.o"
 
 # External object files for target tele
 tele_EXTERNAL_OBJECTS =
 
 tele: CMakeFiles/tele.dir/main.cpp.o
+tele: CMakeFiles/tele.dir/unameload.cpp.o
+tele: CMakeFiles/tele.dir/print_uptime.cpp.o
+tele: CMakeFiles/tele.dir/print_hwmon_info.cpp.o
 tele: CMakeFiles/tele.dir/build.make
 tele: CMakeFiles/tele.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/mnt/c/Programming/Tele/build-aarch64/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable tele"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/mnt/c/Programming/Tele/build-aarch64/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable tele"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/tele.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

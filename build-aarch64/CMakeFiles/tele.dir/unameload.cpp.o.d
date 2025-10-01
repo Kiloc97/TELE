@@ -1,4 +1,5 @@
-CMakeFiles/tele.dir/main.cpp.o: /mnt/c/Programming/Tele/main.cpp \
+CMakeFiles/tele.dir/unameload.cpp.o: \
+ /mnt/c/Programming/Tele/unameload.cpp \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/stdc-predef.h \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/iostream \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/requires_hosted.h \
@@ -186,4 +187,6 @@ CMakeFiles/tele.dir/main.cpp.o: /mnt/c/Programming/Tele/main.cpp \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/ostream.tcc \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/istream \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/istream.tcc \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/sys/utsname.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/bits/utsname.h \
  /mnt/c/Programming/Tele/telepix.h

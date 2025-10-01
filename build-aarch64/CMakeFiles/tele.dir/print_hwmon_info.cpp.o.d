@@ -1,4 +1,5 @@
-CMakeFiles/tele.dir/main.cpp.o: /mnt/c/Programming/Tele/main.cpp \
+CMakeFiles/tele.dir/print_hwmon_info.cpp.o: \
+ /mnt/c/Programming/Tele/print_hwmon_info.cpp \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/stdc-predef.h \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/iostream \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/requires_hosted.h \
@@ -186,4 +187,47 @@ CMakeFiles/tele.dir/main.cpp.o: /mnt/c/Programming/Tele/main.cpp \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/ostream.tcc \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/istream \
  /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/istream.tcc \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/filesystem \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/fs_fwd.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/cstdint \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/lib/gcc/aarch64-none-linux-gnu/14.3.1/include/stdint.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/stdint.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/bits/stdint-uintn.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/bits/stdint-least.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/chrono.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/ratio \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/limits \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/ctime \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/parse_numbers.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/fs_path.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/locale \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/locale_facets_nonio.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/aarch64-none-linux-gnu/bits/time_members.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/aarch64-none-linux-gnu/bits/messages_members.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/libc/usr/include/libintl.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/codecvt.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/locale_facets_nonio.tcc \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/locale_conv.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/iomanip \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/quoted_string.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/sstream \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/sstream.tcc \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/codecvt \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/ext/concurrence.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/shared_ptr.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/shared_ptr_base.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/allocated_ptr.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/unique_ptr.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/ext/aligned_buffer.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/fs_dir.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/fs_ops.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/fstream \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/aarch64-none-linux-gnu/bits/basic_file.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/aarch64-none-linux-gnu/bits/c++io.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/fstream.tcc \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/vector \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/stl_uninitialized.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/stl_vector.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/stl_bvector.h \
+ /opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/aarch64-none-linux-gnu/include/c++/14.3.1/bits/vector.tcc \
  /mnt/c/Programming/Tele/telepix.h

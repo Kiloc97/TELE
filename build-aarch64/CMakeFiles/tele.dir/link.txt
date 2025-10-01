@@ -1,1 +1,1 @@
-/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ CMakeFiles/tele.dir/main.cpp.o -o tele 
+/opt/arm-gnu-toolchain-14.3.rel1-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++ CMakeFiles/tele.dir/main.cpp.o CMakeFiles/tele.dir/unameload.cpp.o CMakeFiles/tele.dir/print_uptime.cpp.o CMakeFiles/tele.dir/print_hwmon_info.cpp.o -o tele 
