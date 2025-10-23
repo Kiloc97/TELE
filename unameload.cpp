@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sys/utsname.h>
-#include "telepix.h"
+#include "tele.h"
 
 using namespace std;
 

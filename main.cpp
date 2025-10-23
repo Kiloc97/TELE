@@ -1,5 +1,5 @@
 #include <iostream>
-#include "telepix.h"
+#include "tele.h"
 
 using namespace std;
 

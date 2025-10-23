@@ -3,7 +3,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include "telepix.h"
+#include "tele.h"
 
 using namespace std;
 namespace fs = std::filesystem;
